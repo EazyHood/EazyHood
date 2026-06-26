@@ -19,7 +19,7 @@ Best-fit work is narrow, testable, and deliverable as a small static artifact or
 
 Instant product:
 
-- QuickFix Landing Kit
-- Three static landing page templates
+- QuickFix Landing Kit Pro
+- Six static landing page templates
 - $5 USDT ERC-20
-- Download unlocks after transaction verification
+- Private GitHub delivery repo unlocks after transaction verification
