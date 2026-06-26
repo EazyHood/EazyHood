@@ -21,5 +21,6 @@ Instant product:
 
 - QuickFix Landing Kit Pro
 - Six static landing page templates
+- Generated custom landing page from buyer fields
 - $5 USDT ERC-20
 - Private GitHub delivery repo unlocks after transaction verification
