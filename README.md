@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 1) TU GIF DE PORTADA: cambia la URL por la de tu gif -->
-  <img src="https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif" />
+  <img src="https://media.giphy.com/media/RgZFvGuI4OxLjuSvRF/giphy.gif" width="100%" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 <br clear="both">
 
 <!-- 2) TU IMAGEN LATERAL: cambia la URL -->
-<img align="left" width="315" height="500" src="https://i.pinimg.com/1200x/3c/a8/6f/3ca86f99978e49b13d4ee29e0c2b877d.jpg" />
+<img align="left" width="315" height="500" src="https://media.giphy.com/media/Te9ImVwQGht1S/giphy.gif" />
 
 <div align="right">
   <img src="https://streak-stats.demolab.com?user=EazyHood&theme=catppuccin-mocha" />
@@ -37,10 +37,6 @@ I build quick web/front-end fixes and small static pages.
 ## $5+ USDT Quick Fix Desk
 
 Need a small HTML/CSS/JavaScript fix, landing section, static page, UI cleanup, or an instant landing page starter kit?
-
-Order here:
-
-https://eazyhood.github.io/cash-sprint-5-usdt-desk/
 
 Payment:
 
